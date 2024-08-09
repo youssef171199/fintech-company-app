@@ -1,10 +1,10 @@
 # project
 
-### Login Screen
-![Login Screen](assets/gg.jpg)
-### Login Screen
-![Login Screen](assets/hh.jpg)
-### Login Screen
-![Login Screen](assets/ff.jpg)
+### home Screen
+![Login Screen](screenshots/gg.jpg)
+### wallet screen
+![Login Screen](screenshots/hh.jpg)
+### profile Screen
+![Login Screen](screenshots/ff.jpg)
 
 A new Flutter project.
